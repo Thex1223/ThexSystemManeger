@@ -1,0 +1,22 @@
+[
+  {
+    "identificador": "10001",
+    "nome_do_funcionario": "João Carlos",
+    "cargo": "Vendedor"
+  },
+  {
+    "identificador": "10002",
+    "nome_do_funcionario": "Kainan Henrique",
+    "cargo": "Gerente"
+  },
+  {
+    "identificador": "10003",
+    "nome_do_funcionario": "Lais",
+    "cargo": "Gerente"
+  },
+  {
+    "identificador": "1",
+    "nome_do_funcionario": "1",
+    "cargo": "Gerente"
+  }
+]

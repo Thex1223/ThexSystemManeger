@@ -1,0 +1,9 @@
+{
+  "app_name": "Thex System | Seu Negocio",
+  "nome_da_empresa": "Thex 1223",
+  "db_funcionarios": "dados/funcionarios.json",
+  "db_produtos": "dados/produtos.json",
+  "db_caixa": "dadps/caixa.json",
+  "txt_credit": "Na18k",
+  "app_name_system": "Thex Maneger System"
+}
