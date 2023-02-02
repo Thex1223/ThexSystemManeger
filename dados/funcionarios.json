@@ -2,7 +2,8 @@
   {
     "identificador": "10001",
     "nome_do_funcionario": "João Carlos",
-    "cargo": "Vendedor"
+    "cargo": "Vendedor",
+    "comissao": "true"
   },
   {
     "identificador": "10002",
