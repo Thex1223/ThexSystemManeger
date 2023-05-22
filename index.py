@@ -49,11 +49,7 @@
 #
 #   Version: v0.0.1-alpha
 # -----------------------------------------------------------------------------
-
-
-from functions import *
 from app import *
-
 
 tela_login = Login()
 tela_login.execute()

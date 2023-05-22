@@ -53,7 +53,17 @@ class App_Login():
 		inp_chave = tk.Entry(frm_login)
 		inp_chave.grid(column=1, row=1, padx=10, pady=10)
 		# ------------------------------------
-		btn_login = tk.Button(frm_login, text="Login", command=lambda: executa_login(inp_user.get(), inp_chave.get(), self.funcionarios_db, self.janela, self.txt_info))
+		btn_login = tk.Button(
+			frm_login,
+			text="Login",
+			command=lambda: executa_login(
+				inp_user.get(),
+				inp_chave.get(),
+				self.funcionarios_db,
+				self.janela,
+				self.txt_info
+			)
+		)
 		btn_login.grid(column=1, row=2, padx=5, pady=5, sticky=tk.E)
 		# ---------------------------------------------
 		self.txt_info = tk.Label(text=self.app_db["txt_credit"])
@@ -61,15 +71,3 @@ class App_Login():
 		# ______________________________________
 		self.janela.mainloop()
 
-class App():
-	def __init__(self, db_app, db_func):
-		self.app_db = db_app
-		self.funcionarios_db = db_func
-
-	def execute(self):
-		self.janela = tk.Tk()
-		self.janela.title(f'{self.app_db["app_name_system"]} | {self.app_db["app_name"]}')
-		self.janela.geometry("1440x1024")
-		self.janela.resizable(0, 0)
-
-		print("Entrado no sistema")
