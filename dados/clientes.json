@@ -2,13 +2,13 @@
   {
     "nome": "Kainan Henrique",
     "cpf": "999.999.999-99",
-    "telefone": "41 99207-2578",
+    "telefone": "",
     "endereco": {
-      "rua": "Papagaios",
-      "numero": 258,
+      "rua": "",
+      "numero": 0,
       "complemento": "Casa 5",
-      "bairro": "Gralha Azul",
-      "cidade": "Fazenda Rio Grande"
+      "bairro": "",
+      "cidade": ""
     }
   }
 ]

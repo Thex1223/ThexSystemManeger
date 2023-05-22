@@ -1,0 +1,374 @@
+{
+    "data": "24/02/2023",
+    "primeira_venda": "[24/02/2023 | 15:40:55]",
+    "vendas": [
+        {
+            "data": "[24/02/2023 | 15:40:55]",
+            "vendedor": null,
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 431.6,
+            "troco": "R$ -68.40",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 4,
+                    "valor_total": 431.6
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 15:41:19]",
+            "vendedor": null,
+            "cliente": "",
+            "metodo_de_pagamento": "",
+            "total": 755.3,
+            "troco": "R$ 0.00",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 7,
+                    "valor_total": 755.3
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 16:34:55]",
+            "vendedor": null,
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 16:37:55]",
+            "vendedor": null,
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 1942.2000000000007,
+            "troco": "R$ -1057.80",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 18,
+                    "valor_total": 1942.2000000000007
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 16:38:38]",
+            "vendedor": null,
+            "cliente": "",
+            "metodo_de_pagamento": "",
+            "total": 1942.2000000000007,
+            "troco": "0.0",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 18,
+                    "valor_total": 1942.2000000000007
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 16:39:32]",
+            "vendedor": null,
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 16:40:49]",
+            "vendedor": null,
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 16:41:18]",
+            "vendedor": null,
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 16:49:20]",
+            "vendedor": null,
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 1942.2,
+            "troco": "R$ -57.80",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 18,
+                    "valor_total": 1942.2000000000007
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 16:55:18]",
+            "vendedor": "Kainan Henrique",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 330.69,
+            "troco": "R$ -69.31",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 3,
+                    "valor_total": 323.70000000000005
+                },
+                {
+                    "id": 1,
+                    "nome_do_produto": "GRAMPO GALVANIZADO",
+                    "codigo": "7908363802558",
+                    "valor_unitario": 6.99,
+                    "quantidade": 1,
+                    "valor_total": 6.99
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 16:55:38]",
+            "vendedor": "Kainan Henrique",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 3.0,
+            "troco": "R$ 0.00",
+            "list_produtos": [
+                {
+                    "id": 2,
+                    "nome_do_produto": "M&M'S",
+                    "codigo": "7896423419276",
+                    "valor_unitario": 3.0,
+                    "quantidade": 1,
+                    "valor_total": 3.0
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 17:23:51]",
+            "vendedor": "Kainan Henrique",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 17:24:24]",
+            "vendedor": "1",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 17:26:02]",
+            "vendedor": "1",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 17:27:18]",
+            "vendedor": "1",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 17:27:49]",
+            "vendedor": "1",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 17:28:22]",
+            "vendedor": "1",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 17:28:41]",
+            "vendedor": "1",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 17:36:28]",
+            "vendedor": "1",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[24/02/2023 | 17:51:48]",
+            "vendedor": "1",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        }
+    ]
+}

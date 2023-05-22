@@ -1,38 +1,24 @@
 [
     {
-        "nome_do_produto": "FAMINTUS",
+        "nome_do_produto": "FAMINTUS CEREAIS",
         "codigo": "100000000",
-        "quantidade": 10.0,
-        "valor": 104.9,
+        "quantidade": 16.0,
+        "valor_custo": 100.0,
+        "perc_margem": 400.0,
+        "valor_venda": 140.0,
         "descricao": "",
-        "peso": 15.0,
-        "marca": "Menpet"
+        "peso": 0.1,
+        "marca": "Menpet Alimentos"
     },
     {
-        "nome_do_produto": "GRAMPO GALVANIZADO",
-        "codigo": "7908363802558",
-        "quantidade": 1.0,
-        "valor": 6.99,
-        "descricao": "GRAMPO GALVANIZADO 26/6",
-        "peso": 0,
-        "marca": "Onda Pro"
-    },
-    {
-        "nome_do_produto": "M&M'S",
-        "codigo": "7896423419276",
-        "quantidade": 3.0,
-        "valor": 3.0,
-        "descricao": "M&M'S CHOCOLATE",
-        "peso": 0.3,
-        "marca": "Masterfoods Brasil Alimentos"
-    },
-    {
-        "nome_do_produto": "INVICTO - 57MG",
-        "codigo": "7898344752814",
-        "quantidade": 17.0,
-        "valor": 19.9,
-        "descricao": "IVICTO - NITEMPIRAM 57MG\n\nC\u00c3ES DE MEDIO E GRANDE PORTE 11,4KG - 57KG\n\nA\u00c7\u00c3O R\u00c1PIDA - INDICADA PARA O CONTROLE DE INFESTA\u00c7\u00d5ES DE PULGAS EM C\u00c3ES\n...",
-        "peso": 0.0,
-        "marca": "Dechra"
+        "nome_do_produto": "SEMENTES FELTRIN",
+        "codigo": "100000000",
+        "quantidade": 561.0,
+        "valor_custo": 1.2,
+        "perc_margem": 40.0,
+        "valor_venda": 1.68,
+        "descricao": "",
+        "peso": 0.1,
+        "marca": ""
     }
 ]

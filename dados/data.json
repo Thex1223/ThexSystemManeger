@@ -1,34 +1,59 @@
 {
-  "app_name": "Thex System | Seu Negocio",
-  "nome_da_empresa": "Thex 1223",
-  "db_funcionarios": "dados/funcionarios.json",
-  "db_produtos": "dados/produtos.json",
-  "db_clientes": "dados/clientes.json",
-  "db_caixa": "dados/caixa.json",
-  "db_estoque": "dados/estoque.json",
-  "txt_credit": "Na18k",
-  "app_name_system": "Thex Maneger System",
-  "system_options": {
-    "width": 1450,
-    "heigt": 820,
-    "icon": "",
-    "font": "Consolas",
-    "theme_select": 0,
-    "theme": [
-      "DarkGray11",
-      "DarkGray8",
-      "DarkGray9",
-      "DarkTeal11",
-      "Default1",
-      "GrayGrayGray",
-      "LightGreen3",
-      "Python",
-      "Topanga"
-    ],
-    "image_icon": "assets/icon.png",
-    "icon": "assets/icon.ico",
-    "log": true
-  },
-  "version": "v0.0.2-alpha",
-  "data_ultima_version": "31/01/2023"
+	"nome_da_empresa": "Thex 1223",
+	"db_funcionarios": "dados/funcionarios.json",
+	"db_server": {
+		"ativo": false,
+		"host": "",
+		"port": "",
+		"user": "",
+		"pass": ""
+	},
+	"db_produtos": "dados/produtos.json",
+	"db_clientes": "dados/clientes.json",
+	"db_caixa": "dados/caixa.json",
+	"db_estoque": "dados/estoque.json",
+	"system_options": {
+		"width": 1450,
+		"heigt": 820,
+		"font": "Consolas",
+		"theme_select": 0,
+		"theme": [
+			"DarkGray11",
+			"DarkGray8",
+			"DarkGray9",
+			"DarkTeal11",
+			"Default1",
+			"GrayGrayGray",
+			"LightGreen3",
+			"Python",
+			"Topanga"
+		],
+		"image_icon": "assets/icon.png",
+		"icon": "assets/icon.ico",
+		"log": true,
+		"auto_calcule_venda": true
+	},
+	"version": "v0.0.3-alpha",
+	"data_ultima_version": "24/02/2023",
+	"info_atalhos": true,
+	"mensagens" : {
+		"atalhos_pdv": [
+			"Enter = Adiciona o produto.",
+			"Delete = Remove último conjunto de produtos.",
+			"Delete + Pesquisa = Remove produto pesquisado.",
+			"F2 = Remove todas as unidades de um item.",
+			"End = Finaliza venda.",
+			"Insert = Adiciona valor avulso."
+		],
+		"atalhos_end": [
+			"Tab = Muda de campo.",
+			"Sobe/Desce = Marca item.",
+			"Espaço = Seleciona item.",
+			"Esc = Finaliza venda."
+		],
+		"atalhos_img_pix": [
+			"Esc = Finalizar compra total.",
+			"BackSpace = Para retornar."
+		]
+	}
 }

@@ -1,0 +1,42 @@
+{
+    "data": "04/03/2023",
+    "primeira_venda": "[04/03/2023 | 11:07:03]",
+    "vendas": [
+        {
+            "data": "[04/03/2023 | 11:07:03]",
+            "vendedor": "1",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 107.9,
+            "troco": "R$ -92.10",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS - CEREAIS",
+                    "codigo": "7898948241288",
+                    "valor_unitario": 107.9,
+                    "quantidade": 1,
+                    "valor_total": 107.9
+                }
+            ]
+        },
+        {
+            "data": "[04/03/2023 | 16:53:57]",
+            "vendedor": "1",
+            "cliente": "",
+            "metodo_de_pagamento": "Dinheiro",
+            "total": 560.0,
+            "troco": "R$ -40.00",
+            "list_produtos": [
+                {
+                    "id": 0,
+                    "nome_do_produto": "FAMINTUS CEREAIS",
+                    "codigo": "100000000",
+                    "valor_unitario": 140.0,
+                    "quantidade": 4,
+                    "valor_total": 560.0
+                }
+            ]
+        }
+    ]
+}
